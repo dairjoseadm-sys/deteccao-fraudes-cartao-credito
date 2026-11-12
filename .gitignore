@@ -1,0 +1,21 @@
+﻿# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados do projeto
+creditcard.csv
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de ambiente e sistema
+.env
+.DS_Store
+Thumbs.db
