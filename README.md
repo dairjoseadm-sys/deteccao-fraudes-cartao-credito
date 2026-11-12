@@ -66,7 +66,7 @@ Os resultados demonstram a importância de avaliar diferentes métricas em probl
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/dairjoseadm-sys/deteccao-fraudes-cartao-credito.git
 ```
 
 Entre na pasta:
